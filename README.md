@@ -7,3 +7,4 @@ Required Mods:
 - V6 Hotend
 - BL Touch / 3D Touch
 - Linear Rails on Z-Axis
+- EBB36 v1.2 Can Toolhead
