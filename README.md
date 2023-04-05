@@ -7,4 +7,4 @@ Required Mods:
 - V6 Hotend
 - BL Touch / 3D Touch
 - Linear Rails on Z-Axis
-- EBB36 v1.2 Can Toolhead
+- EBB36 v1.2 Can Toolhead (I use 4 pins of the endstop connection + 1 of the dupont probe points (ground) for the 3d Touch)
